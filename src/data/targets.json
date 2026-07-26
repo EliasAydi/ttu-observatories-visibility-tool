@@ -1,0 +1,1128 @@
+[
+  {
+    "id": "T CrB",
+    "name": "T CrB",
+    "aliases": [
+      "Blaze Star"
+    ],
+    "ra": "15:59:30.16",
+    "dec": "+25:55:12.6",
+    "category": "Variable star"
+  },
+  {
+    "id": "Vega",
+    "name": "Vega",
+    "aliases": [
+      "Alpha Lyrae"
+    ],
+    "ra": "18:36:56.34",
+    "dec": "+38:47:01.3",
+    "category": "Star"
+  },
+  {
+    "id": "Polaris",
+    "name": "Polaris",
+    "aliases": [
+      "North Star",
+      "Alpha Ursae Minoris"
+    ],
+    "ra": "02:31:49.09",
+    "dec": "+89:15:50.8",
+    "category": "Star"
+  },
+  {
+    "id": "Sirius",
+    "name": "Sirius",
+    "aliases": [
+      "Alpha Canis Majoris"
+    ],
+    "ra": "06:45:08.92",
+    "dec": "-16:42:58.0",
+    "category": "Star"
+  },
+  {
+    "id": "Betelgeuse",
+    "name": "Betelgeuse",
+    "aliases": [
+      "Alpha Orionis"
+    ],
+    "ra": "05:55:10.31",
+    "dec": "+07:24:25.4",
+    "category": "Variable star"
+  },
+  {
+    "id": "Rigel",
+    "name": "Rigel",
+    "aliases": [
+      "Beta Orionis"
+    ],
+    "ra": "05:14:32.27",
+    "dec": "-08:12:05.9",
+    "category": "Star"
+  },
+  {
+    "id": "Aldebaran",
+    "name": "Aldebaran",
+    "aliases": [
+      "Alpha Tauri"
+    ],
+    "ra": "04:35:55.24",
+    "dec": "+16:30:33.5",
+    "category": "Star"
+  },
+  {
+    "id": "Capella",
+    "name": "Capella",
+    "aliases": [
+      "Alpha Aurigae"
+    ],
+    "ra": "05:16:41.36",
+    "dec": "+45:59:52.8",
+    "category": "Star"
+  },
+  {
+    "id": "Procyon",
+    "name": "Procyon",
+    "aliases": [
+      "Alpha Canis Minoris"
+    ],
+    "ra": "07:39:18.12",
+    "dec": "+05:13:29.9",
+    "category": "Star"
+  },
+  {
+    "id": "Regulus",
+    "name": "Regulus",
+    "aliases": [
+      "Alpha Leonis"
+    ],
+    "ra": "10:08:22.31",
+    "dec": "+11:58:01.9",
+    "category": "Star"
+  },
+  {
+    "id": "Spica",
+    "name": "Spica",
+    "aliases": [
+      "Alpha Virginis"
+    ],
+    "ra": "13:25:11.58",
+    "dec": "-11:09:40.8",
+    "category": "Star"
+  },
+  {
+    "id": "Arcturus",
+    "name": "Arcturus",
+    "aliases": [
+      "Alpha Boötis"
+    ],
+    "ra": "14:15:39.67",
+    "dec": "+19:10:56.7",
+    "category": "Star"
+  },
+  {
+    "id": "Antares",
+    "name": "Antares",
+    "aliases": [
+      "Alpha Scorpii"
+    ],
+    "ra": "16:29:24.46",
+    "dec": "-26:25:55.2",
+    "category": "Variable star"
+  },
+  {
+    "id": "Altair",
+    "name": "Altair",
+    "aliases": [
+      "Alpha Aquilae"
+    ],
+    "ra": "19:50:47.00",
+    "dec": "+08:52:06.0",
+    "category": "Star"
+  },
+  {
+    "id": "Deneb",
+    "name": "Deneb",
+    "aliases": [
+      "Alpha Cygni"
+    ],
+    "ra": "20:41:25.91",
+    "dec": "+45:16:49.2",
+    "category": "Star"
+  },
+  {
+    "id": "Fomalhaut",
+    "name": "Fomalhaut",
+    "aliases": [
+      "Alpha Piscis Austrini"
+    ],
+    "ra": "22:57:39.05",
+    "dec": "-29:37:20.1",
+    "category": "Star"
+  },
+  {
+    "id": "Albireo",
+    "name": "Albireo",
+    "aliases": [
+      "Beta Cygni"
+    ],
+    "ra": "19:30:43.29",
+    "dec": "+27:57:34.9",
+    "category": "Double star"
+  },
+  {
+    "id": "Mizar",
+    "name": "Mizar",
+    "aliases": [
+      "Zeta Ursae Majoris"
+    ],
+    "ra": "13:23:55.54",
+    "dec": "+54:55:31.3",
+    "category": "Double star"
+  },
+  {
+    "id": "M1",
+    "name": "M1 — Crab Nebula",
+    "aliases": [
+      "Crab Nebula"
+    ],
+    "ra": "05:34:31.97",
+    "dec": "+22:00:52.10",
+    "category": "Nebula"
+  },
+  {
+    "id": "M2",
+    "name": "M2",
+    "aliases": [],
+    "ra": "21:33:27.01",
+    "dec": "-00:49:23.90",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M3",
+    "name": "M3",
+    "aliases": [],
+    "ra": "13:42:11.23",
+    "dec": "+28:23:31.60",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M4",
+    "name": "M4",
+    "aliases": [],
+    "ra": "16:23:35.41",
+    "dec": "-26:31:31.90",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M5",
+    "name": "M5",
+    "aliases": [],
+    "ra": "15:18:33.75",
+    "dec": "+02:04:57.70",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M6",
+    "name": "M6 — Butterfly Cluster",
+    "aliases": [
+      "Butterfly Cluster"
+    ],
+    "ra": "17:40:06.00",
+    "dec": "-32:13:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M7",
+    "name": "M7 — Ptolemy Cluster",
+    "aliases": [
+      "Ptolemy Cluster"
+    ],
+    "ra": "17:53:54.00",
+    "dec": "-34:49:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M8",
+    "name": "M8 — Lagoon Nebula",
+    "aliases": [
+      "Lagoon Nebula"
+    ],
+    "ra": "18:03:37.00",
+    "dec": "-24:23:12.00",
+    "category": "Nebula"
+  },
+  {
+    "id": "M9",
+    "name": "M9",
+    "aliases": [],
+    "ra": "17:19:11.78",
+    "dec": "-18:30:58.50",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M10",
+    "name": "M10",
+    "aliases": [],
+    "ra": "16:57:08.99",
+    "dec": "-04:05:57.60",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M11",
+    "name": "M11 — Wild Duck Cluster",
+    "aliases": [
+      "Wild Duck Cluster"
+    ],
+    "ra": "18:51:06.00",
+    "dec": "-06:16:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M12",
+    "name": "M12",
+    "aliases": [],
+    "ra": "16:47:14.52",
+    "dec": "-01:56:52.10",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M13",
+    "name": "M13 — Hercules Globular Cluster",
+    "aliases": [
+      "Hercules Globular Cluster",
+      "Great Globular Cluster in Hercules"
+    ],
+    "ra": "16:41:41.44",
+    "dec": "+36:27:36.90",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M14",
+    "name": "M14",
+    "aliases": [],
+    "ra": "17:37:36.15",
+    "dec": "-03:14:45.30",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M15",
+    "name": "M15",
+    "aliases": [],
+    "ra": "21:29:58.38",
+    "dec": "+12:10:00.60",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M16",
+    "name": "M16 — Eagle Nebula",
+    "aliases": [
+      "Eagle Nebula"
+    ],
+    "ra": "18:18:48.00",
+    "dec": "-13:47:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M17",
+    "name": "M17 — Omega Nebula",
+    "aliases": [
+      "Omega Nebula",
+      "Swan Nebula"
+    ],
+    "ra": "18:20:26.00",
+    "dec": "-16:10:36.00",
+    "category": "Nebula"
+  },
+  {
+    "id": "M18",
+    "name": "M18",
+    "aliases": [],
+    "ra": "18:19:54.00",
+    "dec": "-17:08:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M19",
+    "name": "M19",
+    "aliases": [],
+    "ra": "17:02:37.69",
+    "dec": "-26:16:04.60",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M20",
+    "name": "M20 — Trifid Nebula",
+    "aliases": [
+      "Trifid Nebula"
+    ],
+    "ra": "18:02:23.00",
+    "dec": "-23:01:48.00",
+    "category": "Nebula"
+  },
+  {
+    "id": "M21",
+    "name": "M21",
+    "aliases": [],
+    "ra": "18:04:36.00",
+    "dec": "-22:30:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M22",
+    "name": "M22",
+    "aliases": [],
+    "ra": "18:36:24.21",
+    "dec": "-23:54:12.20",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M23",
+    "name": "M23",
+    "aliases": [],
+    "ra": "17:56:48.00",
+    "dec": "-19:01:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M24",
+    "name": "M24 — Sagittarius Star Cloud",
+    "aliases": [
+      "Sagittarius Star Cloud"
+    ],
+    "ra": "18:18:24.00",
+    "dec": "-18:25:00.00",
+    "category": "Milky Way star cloud"
+  },
+  {
+    "id": "M25",
+    "name": "M25",
+    "aliases": [],
+    "ra": "18:31:36.00",
+    "dec": "-19:15:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M26",
+    "name": "M26",
+    "aliases": [],
+    "ra": "18:45:12.00",
+    "dec": "-09:24:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M27",
+    "name": "M27 — Dumbbell Nebula",
+    "aliases": [
+      "Dumbbell Nebula"
+    ],
+    "ra": "19:59:36.34",
+    "dec": "+22:43:15.80",
+    "category": "Planetary nebula"
+  },
+  {
+    "id": "M28",
+    "name": "M28",
+    "aliases": [],
+    "ra": "18:24:32.89",
+    "dec": "-24:52:11.40",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M29",
+    "name": "M29",
+    "aliases": [],
+    "ra": "20:23:56.00",
+    "dec": "+38:31:23.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M30",
+    "name": "M30",
+    "aliases": [],
+    "ra": "21:40:22.03",
+    "dec": "-23:10:44.60",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M31",
+    "name": "M31 — Andromeda Galaxy",
+    "aliases": [
+      "Andromeda Galaxy"
+    ],
+    "ra": "00:42:44.31",
+    "dec": "+41:16:04.40",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M32",
+    "name": "M32",
+    "aliases": [],
+    "ra": "00:42:41.87",
+    "dec": "+40:51:57.20",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M33",
+    "name": "M33 — Triangulum Galaxy",
+    "aliases": [
+      "Triangulum Galaxy"
+    ],
+    "ra": "01:33:51.02",
+    "dec": "+30:39:36.70",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M34",
+    "name": "M34",
+    "aliases": [],
+    "ra": "02:42:00.00",
+    "dec": "+42:47:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M35",
+    "name": "M35",
+    "aliases": [],
+    "ra": "06:08:54.00",
+    "dec": "+24:20:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M36",
+    "name": "M36",
+    "aliases": [],
+    "ra": "05:36:12.00",
+    "dec": "+34:08:24.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M37",
+    "name": "M37",
+    "aliases": [],
+    "ra": "05:52:19.00",
+    "dec": "+32:33:12.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M38",
+    "name": "M38",
+    "aliases": [],
+    "ra": "05:28:43.00",
+    "dec": "+35:51:18.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M39",
+    "name": "M39",
+    "aliases": [],
+    "ra": "21:32:12.00",
+    "dec": "+48:26:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M40",
+    "name": "M40",
+    "aliases": [],
+    "ra": "12:22:24.00",
+    "dec": "+58:05:00.00",
+    "category": "Double star"
+  },
+  {
+    "id": "M41",
+    "name": "M41",
+    "aliases": [],
+    "ra": "06:46:54.00",
+    "dec": "-20:44:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M42",
+    "name": "M42 — Orion Nebula",
+    "aliases": [
+      "Orion Nebula",
+      "Great Orion Nebula"
+    ],
+    "ra": "05:35:17.29",
+    "dec": "-05:23:27.99",
+    "category": "Nebula"
+  },
+  {
+    "id": "M43",
+    "name": "M43 — De Mairan's Nebula",
+    "aliases": [
+      "De Mairan's Nebula"
+    ],
+    "ra": "05:35:31.00",
+    "dec": "-05:16:12.00",
+    "category": "Nebula"
+  },
+  {
+    "id": "M44",
+    "name": "M44 — Beehive Cluster",
+    "aliases": [
+      "Beehive Cluster",
+      "Praesepe"
+    ],
+    "ra": "08:40:24.00",
+    "dec": "+19:40:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M45",
+    "name": "M45 — Pleiades",
+    "aliases": [
+      "Pleiades",
+      "Seven Sisters"
+    ],
+    "ra": "03:47:00.00",
+    "dec": "+24:07:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M46",
+    "name": "M46",
+    "aliases": [],
+    "ra": "07:41:48.00",
+    "dec": "-14:49:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M47",
+    "name": "M47",
+    "aliases": [],
+    "ra": "07:36:36.00",
+    "dec": "-14:30:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M48",
+    "name": "M48",
+    "aliases": [],
+    "ra": "08:13:48.00",
+    "dec": "-05:48:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M49",
+    "name": "M49",
+    "aliases": [],
+    "ra": "12:29:46.76",
+    "dec": "+07:59:59.90",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M50",
+    "name": "M50",
+    "aliases": [],
+    "ra": "07:02:48.00",
+    "dec": "-08:22:36.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M51",
+    "name": "M51 — Whirlpool Galaxy",
+    "aliases": [
+      "Whirlpool Galaxy"
+    ],
+    "ra": "13:29:52.37",
+    "dec": "+47:11:40.80",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M52",
+    "name": "M52",
+    "aliases": [],
+    "ra": "23:24:12.00",
+    "dec": "+61:35:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M53",
+    "name": "M53",
+    "aliases": [],
+    "ra": "13:12:55.30",
+    "dec": "+18:10:09.00",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M54",
+    "name": "M54",
+    "aliases": [],
+    "ra": "18:55:03.28",
+    "dec": "-30:28:42.60",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M55",
+    "name": "M55",
+    "aliases": [],
+    "ra": "19:39:59.40",
+    "dec": "-30:57:43.50",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M56",
+    "name": "M56",
+    "aliases": [],
+    "ra": "19:16:35.50",
+    "dec": "+30:11:04.20",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M57",
+    "name": "M57 — Ring Nebula",
+    "aliases": [
+      "Ring Nebula"
+    ],
+    "ra": "18:53:35.16",
+    "dec": "+33:01:43.20",
+    "category": "Planetary nebula"
+  },
+  {
+    "id": "M58",
+    "name": "M58",
+    "aliases": [],
+    "ra": "12:37:43.90",
+    "dec": "+11:49:06.00",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M59",
+    "name": "M59",
+    "aliases": [],
+    "ra": "12:42:02.39",
+    "dec": "+11:38:45.10",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M60",
+    "name": "M60",
+    "aliases": [],
+    "ra": "12:43:40.19",
+    "dec": "+11:33:08.90",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M61",
+    "name": "M61",
+    "aliases": [],
+    "ra": "12:21:55.03",
+    "dec": "+04:28:28.70",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M62",
+    "name": "M62",
+    "aliases": [],
+    "ra": "17:01:12.60",
+    "dec": "-30:06:44.50",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M63",
+    "name": "M63 — Sunflower Galaxy",
+    "aliases": [
+      "Sunflower Galaxy"
+    ],
+    "ra": "13:15:49.33",
+    "dec": "+42:01:45.40",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M64",
+    "name": "M64 — Black Eye Galaxy",
+    "aliases": [
+      "Black Eye Galaxy"
+    ],
+    "ra": "12:56:43.88",
+    "dec": "+21:41:00.10",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M65",
+    "name": "M65",
+    "aliases": [],
+    "ra": "11:18:55.78",
+    "dec": "+13:05:32.30",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M66",
+    "name": "M66",
+    "aliases": [],
+    "ra": "11:20:15.07",
+    "dec": "+12:59:21.60",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M67",
+    "name": "M67",
+    "aliases": [],
+    "ra": "08:51:18.00",
+    "dec": "+11:50:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M68",
+    "name": "M68",
+    "aliases": [],
+    "ra": "12:39:28.01",
+    "dec": "-26:44:34.90",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M69",
+    "name": "M69",
+    "aliases": [],
+    "ra": "18:31:23.23",
+    "dec": "-32:20:52.70",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M70",
+    "name": "M70",
+    "aliases": [],
+    "ra": "18:43:12.64",
+    "dec": "-32:17:30.80",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M71",
+    "name": "M71",
+    "aliases": [],
+    "ra": "19:53:46.11",
+    "dec": "+18:46:42.30",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M72",
+    "name": "M72",
+    "aliases": [],
+    "ra": "20:53:27.91",
+    "dec": "-12:32:13.40",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M73",
+    "name": "M73",
+    "aliases": [],
+    "ra": "20:59:00.00",
+    "dec": "-12:38:00.00",
+    "category": "Asterism"
+  },
+  {
+    "id": "M74",
+    "name": "M74 — Phantom Galaxy",
+    "aliases": [
+      "Phantom Galaxy"
+    ],
+    "ra": "01:36:41.84",
+    "dec": "+15:46:59.60",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M75",
+    "name": "M75",
+    "aliases": [],
+    "ra": "20:06:04.75",
+    "dec": "-21:55:16.20",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M76",
+    "name": "M76 — Little Dumbbell Nebula",
+    "aliases": [
+      "Little Dumbbell Nebula"
+    ],
+    "ra": "01:42:19.90",
+    "dec": "+51:34:34.00",
+    "category": "Planetary nebula"
+  },
+  {
+    "id": "M77",
+    "name": "M77",
+    "aliases": [],
+    "ra": "02:42:40.83",
+    "dec": "-00:00:48.40",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M78",
+    "name": "M78",
+    "aliases": [],
+    "ra": "05:46:46.70",
+    "dec": "+00:00:50.00",
+    "category": "Nebula"
+  },
+  {
+    "id": "M79",
+    "name": "M79",
+    "aliases": [],
+    "ra": "05:24:10.59",
+    "dec": "-24:31:27.30",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M80",
+    "name": "M80",
+    "aliases": [],
+    "ra": "16:17:02.51",
+    "dec": "-22:58:30.40",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M81",
+    "name": "M81 — Bode's Galaxy",
+    "aliases": [
+      "Bode's Galaxy"
+    ],
+    "ra": "09:55:33.17",
+    "dec": "+69:03:55.10",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M82",
+    "name": "M82 — Cigar Galaxy",
+    "aliases": [
+      "Cigar Galaxy"
+    ],
+    "ra": "09:55:52.19",
+    "dec": "+69:40:48.80",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M83",
+    "name": "M83 — Southern Pinwheel Galaxy",
+    "aliases": [
+      "Southern Pinwheel Galaxy"
+    ],
+    "ra": "13:37:00.78",
+    "dec": "-29:51:58.60",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M84",
+    "name": "M84",
+    "aliases": [],
+    "ra": "12:25:03.74",
+    "dec": "+12:53:13.10",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M85",
+    "name": "M85",
+    "aliases": [],
+    "ra": "12:25:24.23",
+    "dec": "+18:11:26.90",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M86",
+    "name": "M86",
+    "aliases": [],
+    "ra": "12:26:12.20",
+    "dec": "+12:56:44.50",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M87",
+    "name": "M87 — Virgo A",
+    "aliases": [
+      "Virgo A"
+    ],
+    "ra": "12:30:49.42",
+    "dec": "+12:23:28.00",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M88",
+    "name": "M88",
+    "aliases": [],
+    "ra": "12:31:59.34",
+    "dec": "+14:25:13.40",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M89",
+    "name": "M89",
+    "aliases": [],
+    "ra": "12:35:40.00",
+    "dec": "+12:33:22.90",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M90",
+    "name": "M90",
+    "aliases": [],
+    "ra": "12:36:50.08",
+    "dec": "+13:09:45.70",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M91",
+    "name": "M91",
+    "aliases": [],
+    "ra": "12:35:26.43",
+    "dec": "+14:29:46.80",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M92",
+    "name": "M92",
+    "aliases": [],
+    "ra": "17:17:07.27",
+    "dec": "+43:08:11.50",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M93",
+    "name": "M93",
+    "aliases": [],
+    "ra": "07:44:36.00",
+    "dec": "-23:52:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M94",
+    "name": "M94",
+    "aliases": [],
+    "ra": "12:50:53.06",
+    "dec": "+41:07:13.60",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M95",
+    "name": "M95",
+    "aliases": [],
+    "ra": "10:43:57.70",
+    "dec": "+11:42:12.70",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M96",
+    "name": "M96",
+    "aliases": [],
+    "ra": "10:46:45.78",
+    "dec": "+11:49:10.20",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M97",
+    "name": "M97 — Owl Nebula",
+    "aliases": [
+      "Owl Nebula"
+    ],
+    "ra": "11:14:47.50",
+    "dec": "+55:01:14.00",
+    "category": "Planetary nebula"
+  },
+  {
+    "id": "M98",
+    "name": "M98",
+    "aliases": [],
+    "ra": "12:13:48.37",
+    "dec": "+14:53:58.00",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M99",
+    "name": "M99",
+    "aliases": [],
+    "ra": "12:18:49.52",
+    "dec": "+14:25:00.40",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M100",
+    "name": "M100",
+    "aliases": [],
+    "ra": "12:22:54.95",
+    "dec": "+15:49:19.50",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M101",
+    "name": "M101 — Pinwheel Galaxy",
+    "aliases": [
+      "Pinwheel Galaxy"
+    ],
+    "ra": "14:03:12.48",
+    "dec": "+54:20:55.30",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M102",
+    "name": "M102",
+    "aliases": [],
+    "ra": "15:06:29.48",
+    "dec": "+55:45:47.20",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M103",
+    "name": "M103",
+    "aliases": [],
+    "ra": "01:33:12.00",
+    "dec": "+60:42:00.00",
+    "category": "Open cluster"
+  },
+  {
+    "id": "M104",
+    "name": "M104 — Sombrero Galaxy",
+    "aliases": [
+      "Sombrero Galaxy"
+    ],
+    "ra": "12:39:59.43",
+    "dec": "-11:37:23.00",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M105",
+    "name": "M105",
+    "aliases": [],
+    "ra": "10:47:49.75",
+    "dec": "+12:34:54.60",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M106",
+    "name": "M106",
+    "aliases": [],
+    "ra": "12:18:57.54",
+    "dec": "+47:18:14.30",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M107",
+    "name": "M107",
+    "aliases": [],
+    "ra": "16:32:31.91",
+    "dec": "-13:03:13.10",
+    "category": "Globular cluster"
+  },
+  {
+    "id": "M108",
+    "name": "M108",
+    "aliases": [],
+    "ra": "11:11:31.29",
+    "dec": "+55:40:31.00",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M109",
+    "name": "M109",
+    "aliases": [],
+    "ra": "11:57:35.90",
+    "dec": "+53:22:35.00",
+    "category": "Galaxy"
+  },
+  {
+    "id": "M110",
+    "name": "M110",
+    "aliases": [],
+    "ra": "00:40:22.30",
+    "dec": "+41:41:09.00",
+    "category": "Galaxy"
+  }
+]

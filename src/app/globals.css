@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+:root {
+  --ttu-scarlet: #e90802;
+  --ttu-black: #000000;
+  --ttu-white: #ffffff;
+  --ttu-light-gray: #ededed;
+  --ttu-dark-gray: #333333;
+  --ttu-medium-gray: #757575;
+  --background: #f7f7f7;
+  --foreground: #171717;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--background);
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  color: var(--foreground);
+  background:
+    radial-gradient(circle at top right, rgba(233, 8, 2, 0.09), transparent 30rem),
+    linear-gradient(180deg, #ffffff 0%, #f4f4f4 100%);
+  font-family: Inter, Arial, Helvetica, sans-serif;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+::selection {
+  color: #ffffff;
+  background: var(--ttu-scarlet);
+}
