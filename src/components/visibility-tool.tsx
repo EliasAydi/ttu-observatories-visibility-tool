@@ -475,7 +475,7 @@ export function VisibilityTool() {
                       <LineChart data={result.chart} margin={{ top: 10, right: 12, left: -12, bottom: 4 }}>
                         <CartesianGrid strokeDasharray="3 3" stroke="#e5e5e5" />
                         <XAxis dataKey="timestamp" type="number" domain={[result.nightStart.getTime(), result.nightEnd.getTime()]} tickFormatter={(timestamp) => chartTime(Number(timestamp), observatory.timeZone)} tick={{ fontSize: 12 }} />
-                        <YAxis domain={[1, 5]} reversed tick={{ fontSize: 12 }} />
+                        <YAxis domain={[1, 6]} reversed allowDataOverflow ticks={[1, 2, 3, 4, 5, 6]} tick={{ fontSize: 12 }} />
                         <Tooltip labelFormatter={(value) => formatInZone(new Date(Number(value)), observatory.timeZone, { weekday: "short" })} formatter={(value) => [Number(value).toFixed(2), "Airmass"]} />
                         <ReferenceLine y={2} stroke="#E90802" strokeDasharray="5 5" label={{ value: "Airmass 2", position: "insideTopLeft", fill: "#E90802", fontSize: 11 }} />
                         <Line type="monotone" dataKey="airmass" stroke="#000000" strokeWidth={3} dot={false} connectNulls={false} />
